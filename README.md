@@ -1,13 +1,13 @@
-# sistema de notas em python
-Projeto simples desenvolvido em Python para cálculo de média de alunos.
+# Projetos em Python
+Este repositório contém projetos simples e desenvolvidos em Python durante meus estudos.
 
-## Funcionalidades
-- Entrada de nome e notas
-- Cálculo de média
-- Classificação:
-   - Aprovado
-   - Recuperação
-   - Reprovado
+## Projetos
 
- ## Tecnologias
- - Python
+### Sistemas de Notas
+- Calcula média de alunos
+- Classificação: Aprovado, Recuperação, Reprovado
+
+  ## Jogo de Adivinhação
+  - Número aleatório de 1 a 100
+  - Usuário tenta acertar
+  - Dicas: muito alto ou muito baixo
