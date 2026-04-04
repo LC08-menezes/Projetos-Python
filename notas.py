@@ -4,7 +4,7 @@ nota2 = float(input("Digite sua segunda nota: "))
 nota3 = float(input("Digite sua terceira nota: "))
 
 media = (nota1 + nota2 + nota3) / 3
-print
+
 print(f"Media: {media:.2f}")
 print("Aluno:", nome)
 if media >= 8:
